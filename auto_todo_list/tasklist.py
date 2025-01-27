@@ -37,3 +37,17 @@ def main():
         print("2. View the tasks.")
         print("3. Remove a task.")
         print("4. Exit.")
+        choice = int(input("Make a selection."))
+        if choice == 1:
+            add_task()
+        elif == 2:
+            view_tasks()
+        elif == 3:
+            remove_task()
+        elif == 4:
+            print("Goodbye.")
+            break
+        else:
+            print('Please make another selection.')
+if __name__ == "__main__":
+    main()
