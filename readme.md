@@ -1,1 +1,1 @@
-Individual readme.md files can be found in the sub directories.
+Individual readme.md files can be found in the folders.
