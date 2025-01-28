@@ -33,7 +33,7 @@ How to Run
 
 1. Ensure you have Python installed on your system. If you don't, you can download and install it from here.
 
-2. Save the code in a Python file (e.g., money_calculation.py).
+2. Save the code in a Python file (e.g., budgetcalculator.py).
 
 3. Open a terminal or command prompt and navigate to the directory where the Python file is saved.
 
@@ -41,7 +41,7 @@ How to Run
 
 bash
 Copy
-python money_calculation.py
+python budgetcalculator.py
 The output will display the amount of money left over in the format:
 
 swift Copy
