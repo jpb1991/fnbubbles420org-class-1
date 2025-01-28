@@ -60,11 +60,3 @@ Feel free to fork the repository, create a branch, and submit a pull request. Pl
 Acknowledgments
 
 This project was created as a simple example to demonstrate basic arithmetic operations in Python.
-
-yaml
-
-Copy
-
----
-
-This `README.md` provides an overview of what the program does, a brief explanation of how to run it, and any other necessary information. If you'd like to add more details or modify any sections, feel free to let me know!
