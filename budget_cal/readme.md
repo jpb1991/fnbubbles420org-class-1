@@ -50,15 +50,19 @@ The following is an example of the program:
 $570.20 is how much money that is left over.
 
 License
+
 This project is open-source and available under the MIT License.
 
 Contributing
+
 Feel free to fork the repository, create a branch, and submit a pull request. Please ensure that your code is well-documented and follows Python's PEP 8 style guide.
 
 Acknowledgments
+
 This project was created as a simple example to demonstrate basic arithmetic operations in Python.
 
 yaml
+
 Copy
 
 ---
