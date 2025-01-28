@@ -30,22 +30,25 @@ leftover_money = total_money + work_money - spending_money - utility_money
 print("${:.2f} is how much money that is left over.".format(leftover_money))
 ```
 How to Run
-Ensure you have Python installed on your system. If you don't, you can download and install it from here.
 
-Save the code in a Python file (e.g., money_calculation.py).
+1. Ensure you have Python installed on your system. If you don't, you can download and install it from here.
 
-Open a terminal or command prompt and navigate to the directory where the Python file is saved.
+2. Save the code in a Python file (e.g., money_calculation.py).
 
-Run the script using the following command:
+3. Open a terminal or command prompt and navigate to the directory where the Python file is saved.
+
+4. Run the script using the following command:
 
 bash
 Copy
 python money_calculation.py
 The output will display the amount of money left over in the format:
 
-swift
-Copy
+swift Copy
+
+The following is an example of the program:
 $570.20 is how much money that is left over.
+
 License
 This project is open-source and available under the MIT License.
 
